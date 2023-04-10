@@ -1,0 +1,7 @@
+export { default as Home } from './Home'
+export { default as Public } from './Public'
+export { default as Category } from './Category'
+export { default as Login } from './Login'
+export { default as DetailPost } from './DetailPost'
+export { default as Search } from './Search'
+export { default as AboutUs } from './AboutUs'

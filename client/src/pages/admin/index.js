@@ -1,0 +1,6 @@
+export { default as Admin } from './Admin'
+export { default as Dashboard } from './Dashboard'
+export { default as ManageUser } from './ManageUser'
+export { default as ManageEatery } from './ManageEatery'
+export { default as ManageRented } from './ManageRented'
+export { default as ManageOthers } from './ManageOthers'
